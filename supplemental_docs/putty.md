@@ -11,6 +11,7 @@ You need to download two different softwares
 ![](./images/putty2.png)
 
 <hr>
+
 ![](./images/xming.png)
 
 
