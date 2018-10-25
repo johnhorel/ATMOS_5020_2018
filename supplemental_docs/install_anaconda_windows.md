@@ -101,11 +101,9 @@ After installation, open Python and import the new library to see if it works co
 <!---->
     conda install -c conda-forge pandas
 <!---->
-    conda install -c conda-forge basemap
-<!---->
-    conda install -c conda-forge basemap-data-hires
-<!---->
     conda install -c conda-forge cartopy
+<!---->
+    conda install -c conda-forge pyproj
 <!---->
     conda install -c conda-forge metpy
 <!---->
@@ -115,5 +113,17 @@ After installation, open Python and import the new library to see if it works co
 <!---->
     conda install -c conda-forge xarray
 <!---->
-    conda install -c conda-forge pyproj
+    conda install -c conda-forge pygrib
+
+Note: `pygrib` is not available on Windows PC.
+
 <!---->
+    conda install -c conda-forge basemap
+<!---->
+    conda install -c conda-forge basemap-data-hires
+
+Basemap is currently having issues being installed by Anaconda (not sourcing PROJ_LIB correctly when imported). Maybe it's working now?? This package is being depreciated soon, so it's best to learn cartopy.
+
+---
+
+If want to really get into using Python for different things, you might consider setting up conda environments and instal packages from a .yml file. Google around for how to do that and check the [Unidata tutorial](https://github.com/Unidata/unidata-users-workshop).
