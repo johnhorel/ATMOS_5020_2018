@@ -1,3 +1,6 @@
+**Brian Blaylock**  
+**October 26, 2018**
+
 # How to log onto CHPC resources from a Windows PC
 
 You will need to download and install two different softwares
