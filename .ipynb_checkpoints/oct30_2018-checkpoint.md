@@ -401,26 +401,7 @@ Try:
 
 > ## Question: Now what happened?
 
-
-## Dictionary
-Dictionaries are another useful ways to organize objects. Dicionaries are organized in a **"Key-Value pair"**. Keys can either be numbers or strings.
-
-    my_dictionary = {1:'b',
-                     2: [23,265,12,43],
-                     3: ('this', 'is', 'a tuple')}
-
-    print(my_dictionary.keys())
-    print(mydictionary[1])
-
-    another_dictionary = {'name':'Brian',
-                          'school': 'university of utah,
-                          'numbers': [1,2,3,4,5,6]}
-    print(another_dictionary.keys())
-    print(another_dictionary['name'])
-    print(another_dictionary['name'][0])
-
-[Reference: Python Dictionary](https://www.tutorialspoint.com/python3/python_dictionary.htm)
-
+<br>
 <br>
 
 ---
