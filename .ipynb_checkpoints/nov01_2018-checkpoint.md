@@ -8,7 +8,7 @@
 
 <big style='color:red;font-family:arial'>**YOU MUST BRING A VALID PHOTO ID**</big>
 
-|||
+|-|-|
 |--|--|
 |**Date**| November 1, 2018|
 |**Time**| 2:00 - 3:00 PM|
@@ -55,3 +55,5 @@ The Downtown Data Center is where the University of Utah, University Hospital, a
 During the tour, you will see the computer you log into for class, see lots of wires and flashing lights, and learn a little about how a supercomputer facility works. Be ready to ask questions and soak in the knowledge!
 
 ![](./images/DDC_computers.png)
+
+![](./images/meteo07.png)
