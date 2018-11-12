@@ -5,6 +5,14 @@
 # ATMOS 5020
 Code and other information for ATMOS 5020, Environmental Programming, during Fall 2018
 
+# Download this repository
+
+    git clone https://github.com/johnhorel/ATMOS_5020_2018
+
+or download the zip file.
+
+    > If you have a Windows PC you will need to download git for Windows.
+
 > ### Jupyter Notebooks
 > Notebooks _should_ render on Github. If they don't, even after refreshing the page, you can copy the notebook URL and and view it with the nbviewer: https://nbviewer.jupyter.org/.
 >
