@@ -1,6 +1,8 @@
 .DS_Store
 Thumbs.db
 
-assignment2_KEY.ipynb
-assignment2_KEY-checkpoint.ipynb
+
+assignment2_*.ipynb
+
+!assignment2_LASTNAME_uXXXXXXX.ipynb
 
