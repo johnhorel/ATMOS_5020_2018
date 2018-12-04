@@ -3,17 +3,15 @@ clear all
 close all
 
 % Matlab Input-Output (I/O) Methods
-% Objective: Reinforce concepts related to input operations and using numpy to manipulate arrays.
-
+% Objective: Reinforce concepts related to input operations and plotting
 
 % Interactive Data Input
 % First, let's manually enter values interactively
+% Ask for user input. have to tell it to be a string
+my_name = input('What is my name?','s');
+%input a number 
+my_address_str = input('what is my street address?');
 
-%  Ask for user input
-% my_name = input('What is my name?');
-
-%Change the input to an integer type
-% my_address = int(input('what is my street address?'));
 
 
 % Download text from a URL
@@ -67,13 +65,13 @@ a = [1 2 3 4; 5 6 7 8; 9 10 11 12];
 
 % Reshape
 % converting list from 1 to 12, to a 3x4 array
-b = reshape([1:12],[3,4]);
+b = reshape(1:12,3,4);
 
 %using meshgrid
 % Given two different 1D vectors...
 % how does the differ from python
-x = [-1:.25:1];
-y = [-1:.25:1];
+x = -1:.25:1;
+y = -1:.25:1;
 
 % Create a grid of the data...
 [X,Y] = meshgrid(x,y);
